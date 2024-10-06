@@ -4,3 +4,7 @@ Data description and analysis plans/workflow for Loxia whole genome resequencing
 ## Information on samples and sequencing
 
 We completed two rounds of WGRS with paired end illumina Novaseqlanes.
+
+## Reference genome(s)
+
+### 
