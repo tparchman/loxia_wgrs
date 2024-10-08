@@ -49,7 +49,7 @@ We completed two rounds of WGRS with paired end illumina Novaseq lanes. The firs
 | *Loxia curvirostra* type 7   |   British Columbia   | 4 |
 | *Loxia curvirostra* type 7   |   Oregon   | 2 |
 | *Loxia curvirostra* type 10   |   Oregon   | 3 |
-| *Loxia curvirostra* Cypress Hills   | Cypress Hills, Canada  | 8 |
+| *Loxia curvirostra* Cypress Hills (type 2?)   | Cypress Hills, Canada  | 8 |
 | *Loxia curvirostra percna*  |   Newfoundland   | 1 |
 | *Loxia curvirostra poliogyna*  |   Morocco   | 9 |
 | *Loxia curvirostra balearica*  |   Mallorca, Spain   | 7 |
@@ -77,14 +77,14 @@ We completed two rounds of WGRS with paired end illumina Novaseq lanes. The firs
 
 
 ### 2021 WGRS at BGI
-A list of fastq IDs and associated information on each bird sequenced during this round can be found in `BGI_2021_fastq_sample_info.csv`. There is data for 92 birds here: 30 *Loxia curvirostra* type 2, 26 *Loxia curvirostra* type 5, 30 *Loxia sinesciuris*, 3 *Loxia leucoptera*, and 3 *Loxia curvirostra poliogyna* (Atlas Mts., Morrocco).
+A list of fastq IDs and associated information on each bird sequenced during this round can be found in `BGI_2021_fastq_sample_info.csv`. There is data for 92 birds here: 30 *Loxia curvirostra* type 2, 26 *Loxia curvirostra* type 5, 30 *Loxia sinesciuris*, 3 *Loxia leucoptera*, and 3 *Loxia curvirostra poliogyna* (Atlas Mts., Morrocco). Coverage depth should be between 20-30x for these.
 
 Fastq files are on Parchman's storage server (`ponderosa:/backups/rawdata_to_backup/xbill_WGRS/BGI_2022_259/Clean/`).
 
 
 ### 2023 WGRS at Azenta
 
-This sequencing round included more extensive and broad taxonomic and ecotypic sampling. A list of fastq IDs and associated information on each bird sequenced during this round can be found in `WGRS_Azenta_2023_fastq_sample_info.csv`.
+This sequencing round included more extensive and broad taxonomic and ecotypic sampling. A list of fastq IDs and associated information on each bird sequenced during this round can be found in `WGRS_Azenta_2023_fastq_sample_info.csv`. Coverage depth should be between 20-25x for these.
 
 Fastq files are on Parchman's storage server (`ponderosa:/backups/rawdata_to_backup/xbill_WGRS/azenta_9_23/30-730065926/00_fastq`), also in a google drive directory in order to share with Andi Kautt.
 
