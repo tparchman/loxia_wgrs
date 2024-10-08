@@ -29,7 +29,7 @@ We completed two rounds of WGRS with paired end illumina Novaseq lanes. The firs
 **Sample information and numbers (Total n = 217)**
 
 | Taxon              |   Geography   |   n   |
-| :---------------- |   :------:   | ----: |
+| :----------------: |   :------:   | ----: |
 | *Loxia sinesciuris*   |   South Hills, ID   | 30 |
 | *Loxia curvirostra* type 1   |   Virginia   | 6 |
 | *Loxia curvirostra* type 1   |   North Carolina   | 1 |
@@ -49,7 +49,7 @@ We completed two rounds of WGRS with paired end illumina Novaseq lanes. The firs
 | *Loxia curvirostra* type 7   |   British Columbia   | 4 |
 | *Loxia curvirostra* type 7   |   Oregon   | 2 |
 | *Loxia curvirostra* type 10   |   Oregon   | 3 |
-| *Loxia curvirostra* Cypress Hills   | Cypress Hills, Canada  | 2 |
+| *Loxia curvirostra* Cypress Hills   | Cypress Hills, Canada  | 8 |
 | *Loxia curvirostra percna*  |   Newfoundland   | 1 |
 | *Loxia curvirostra poliogyna*  |   Morocco   | 9 |
 | *Loxia curvirostra balearica*  |   Mallorca, Spain   | 7 |
@@ -66,13 +66,13 @@ We completed two rounds of WGRS with paired end illumina Novaseq lanes. The firs
 | *Loxia curvirostra luzoniensis*  |   Philippines   | 8 |
 | *Loxia scotia*  |   Scotland   | 2 |
 |*Loxia megaplaga*    |   Dominican Republic   | 4 |
-| *Loxia leucoptera*    |   British Columbia   | 4 |
-| *Loxia leucoptera*    |   Ontario   | 1 |
-| *Loxia leucoptera*    |  Alaska   | 1 |
-| *Loxia leucoptera*    |   New York   | 1 |
-| *Loxia leucoptera*    |   North Carolina   | 3 |
-| *Loxia leucoptera*    |   Colorado   | 2 |
-| *Loxia leucoptera*    |   Unknown North America   | 2 |
+| *Loxia l. leucoptera*    |   British Columbia   | 4 |
+| *Loxia l. leucoptera*    |   Ontario   | 1 |
+| *Loxia l. leucoptera*    |  Alaska   | 1 |
+| *Loxia l. leucoptera*    |   New York   | 1 |
+| *Loxia l. leucoptera*    |   North Carolina   | 3 |
+| *Loxia l. leucoptera*    |   Colorado   | 2 |
+| *Loxia l. leucoptera*    |   Unknown North America   | 2 |
 | *Loxia pytyopsittacus*    |   Russia   | 3 |
 
 
