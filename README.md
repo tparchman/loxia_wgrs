@@ -87,3 +87,7 @@ Fastq files are on Parchman's storage server (`ponderosa:/backups/rawdata_to_bac
 This sequencing round included more extensive and broad taxonomic and ecotypic sampling. A list of fastq IDs and associated information on each bird sequenced during this round can be found in `WGRS_Azenta_2023_fastq_sample_info.csv`.
 
 Fastq files are on Parchman's storage server (`ponderosa:/backups/rawdata_to_backup/xbill_WGRS/azenta_9_23/30-730065926/00_fastq`), also in a google drive directory in order to share with Andi Kautt.
+
+## Old GBS data for new and old world *Loxia*
+
+We have ddRADseq data for more thorough sets of new and old world *Loxia* that were analyzed and published in two separate papers, one focusing on North America (Parchman et al. 2016, Molecular Ecology), and one focusing on the European birds (Parchman et al. 2018, Journal of Evolutionary Biology). Combined, those sampled should serve a nice basis for phylogenetic analyses of broad patterns of diversification in the group. 
