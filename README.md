@@ -19,8 +19,18 @@ Assembly and associated annotation files are on Parchman servers available on re
 | L50/N50   |   91 scaffolds; 3.108 Mb   | 65 scaffolds; 71.807 Mb |
 | L90/N90   |   421 scaffolds; 0.451 Mb   | 19 scaffolds; 14.608 Mb |
 
+The assembly in fasta format can be found at:
+
+https://drive.google.com/drive/folders/1MZ8tg9HuzDOGfTKeEXNrDLwpbPsN9_vI?usp=sharing
+
+
 ### 2. Additional de novo assemblies with PacBio HiFi 
 We recently used PacBio Hifi sequencing to *de novo* assemble two additional genomes for one type 2 and one type 5 *L. curvirostra*. This workflow, the assemblies and annotation are summarized in `Azenta Bioinformatics Report - Pacbio - denovo assembly - 30-742644819.pdf` in this repository. These assemblies are pretty underwhelming, but would be a good basis for HiC to get them to chromosome level and perhaps some analyses.
+
+The assemblies, in fasta format, can be found at the google drive link below. Summaries of the assemblies can be found in the report referenced above. The assembly for the type 2 bird is in `S170996-2.hifireads.fa` and the assembly for the type 5 is in `171203-5.hifireads.hifireads.fa`
+
+ https://drive.google.com/drive/folders/1VuieqGBdZpBElW6PBIfuvjLluhAqGtEA?usp=sharing
+
 
 ## Whole genome resequencing data
 
@@ -79,14 +89,23 @@ We completed two rounds of WGRS with paired end illumina Novaseq lanes. The firs
 ### 2021 WGRS at BGI
 A list of fastq IDs and associated information on each bird sequenced during this round can be found in `BGI_2021_fastq_sample_info.csv`. There is data for 92 birds here: 30 *Loxia curvirostra* type 2, 26 *Loxia curvirostra* type 5, 30 *Loxia sinesciuris*, 3 *Loxia leucoptera*, and 3 *Loxia curvirostra poliogyna* (Atlas Mts., Morrocco). Coverage depth should be between 20-30x for these.
 
-Fastq files are on Parchman's storage server (`ponderosa:/backups/rawdata_to_backup/xbill_WGRS/BGI_2022_259/Clean/`).
+Fastq files are on Parchman's storage server (`ponderosa:/backups/rawdata_to_backup/xbill_WGRS/BGI_2022_259/Clean/`), and are now posted on google drive at:
+
+https://drive.google.com/drive/folders/1DrcmMfYGPfCgd95v63GraoRk5PEXOBF3?usp=sharing
+
 
 
 ### 2023 WGRS at Azenta
 
 This sequencing round included more extensive and broad taxonomic and ecotypic sampling. A list of fastq IDs and associated information on each bird sequenced during this round can be found in `WGRS_Azenta_2023_fastq_sample_info.csv`. Coverage depth should be between 20-25x for these.
 
-Fastq files are on Parchman's storage server (`ponderosa:/backups/rawdata_to_backup/xbill_WGRS/azenta_9_23/30-730065926/00_fastq`), also in a google drive directory in order to share with Andi Kautt.
+Fastq files are on Parchman's storage server (`ponderosa:/backups/rawdata_to_backup/xbill_WGRS/azenta_9_23/30-730065926/00_fastq`), also in a google drive directory in order to share with Andi Kautt:
+
+https://drive.google.com/drive/folders/1ozppxVr5j0BkfZfFbM4OvmhhVj9x2v7d?usp=sharing
+
+
+
+
 
 ## Old GBS data for new and old world *Loxia*
 
